@@ -1,0 +1,1 @@
+This project showcases two essential utilities: a Calculator and an Alarm Clock, designed with a user-friendly interface to help you perform basic calculations and manage your time effectively. The project is developed as part of a User Interface Design (UID) course, focusing on creating functional, easy-to-use, and visually appealing applications.
